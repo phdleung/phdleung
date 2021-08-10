@@ -2,7 +2,7 @@ Hi there 👋
 
 I’m Pedro Leung, a Full Stack Developer (WIP... 😉)
 
-I’m currently learning ReactJS, .NET Core, NodeJS and a bunch of other technologies at @april9-digital-consulting
+I’m currently learning ReactJS, .NET Core, NodeJS and a bunch of other technologies at @april9-digital-consulting / @pedroleung
 
 I used to work with SAP MII, ExtJS and other stuff for a long time 👴🏻, but now I am looking for different things to learn!
 
